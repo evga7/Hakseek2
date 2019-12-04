@@ -1,7 +1,10 @@
 # Hakseek2
-===========
 세종대학교 모바일 학식주문 프로그램
 
+## 사용언어 JAVA(Android studio)
+### 개발기간 2018.10~11
+#### DB : Firebase
+#### 개발부분 : UI,UX 및 개발
 ![hak_1](https://user-images.githubusercontent.com/44694917/70131352-8725ef00-16c5-11ea-91a5-2de8c1363bfe.JPG)
 
 ![hak_2](https://user-images.githubusercontent.com/44694917/70131353-8725ef00-16c5-11ea-9393-7282d28ab5e4.JPG)
